@@ -14,6 +14,7 @@ Add a third map style to allow the user to select from three different maps.
 ## Resources Used
   
 logic.js file from Earthquakes_past7days branch
+  
 GeoJSON/PB2002_boundaries.json from the available GIT repository
   
 ## Steps
